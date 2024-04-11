@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	
+	<body>
+
+		<div>
+
+			<br><br>
+			<div class="topnav">
+				<img src="logo.jpg" class="logo"> 
+				<a href="#SERVICES">SERVICES</a>
+				<a href="#ABOUT US">ABOUT US</a>
+				<a href="#CONTACT US">CONTACT US</a>
+				<a href="#CAREERS">CAREERS</a>
+			</div>
+
+		    <br><br><br>
+			<button class="orange-button">GET FREE CONSULTATION</button>
+            
+			<br><br><br><br>
+			<div class="FAQS">
+				<p>What is Webflow and why is it the best website builder?   &nbsp &nbsp &nbsp &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp+ </p>
+				<br>
+				
+				<p class="purple-text">What is Webflow and why is it the best website builder?   &nbsp &nbsp &nbsp &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp- </p>
+				
+                <div class="inner-box">
+				<p>Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctusn accumsan tortor posuere.</p>
+			
+				</div>
+			   
+			   
+			   
+			</div>
+			
+			<br><br><br>
+
+			<div class="footer">
+				<div class="column1">
+					<img src="logo2.jpg" class="footer-logo "> 
+					<br><br><br>
+					<p>Your goal is our target. not anything in between. We use online marketing platforms and tools to achieve single objective-your business results.</p>
+				</div>
+    
+				<div class="column3">
+					<h3>Our Services</h3>
+					<ul>
+						<li>Social Media Marketing</li><br>
+			 
+						<li>Web & Mobile App Development</li><br>
+			 
+			 
+						<li>Data & Analytics </li>
+			 
+	
+					</ul>
+				</div>
+	
+				<div class="column2">
+						<h3>Our Technologies</h3>
+						<ul>
+							<li>ReactJS</li><br>
+			 
+			 
+							<li>Gatsby</li><br>
+			 
+			 
+							<li>NextJS</li><br>
+			 
+			 
+							<li>NodeJS</li>
+						</ul>
+				</div>
+			
+			
+   
+			</div>
+	
+	
+			<div class="footer-end">
+			<hr>
+			<p>Privacy Policy | Terms & Conditions</p>
+			</div>
+
+	</div>
+
+		</div>
+
+	</body>
+</html>

@@ -1,0 +1,304 @@
+.main{
+	
+	width: 375px;
+	
+}
+
+/* Add a black background color to the top navigation */
+.navbar {
+    width: 375px;
+    background-color: #6B3CC9 !important;
+  }
+
+
+
+
+.logo {
+   float: left; 
+   max-height: 70px; /* Set maximum height for the logo */
+   padding: 5px; 
+   width: auto; /* width adjust automatically */
+}
+
+.orange-button {
+   background-color: #F28D35; 
+   color: white; 
+   padding: 12px 20px; /* Padding around text */
+   top: 382px; /* Position from the top */
+   float: center;
+   border-radius: 4px; /* Rounded corners */
+   gap: 8px; /* Gap between content */
+   border: none;
+   font-family: Inter;
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 14px;
+   letter-spacing: -0.02em;
+  
+
+}  
+
+.FAQS {
+   text-align: center;
+   width: 600px;
+   border: 1px dashed #9747FF;
+   border-radius: 4px;
+}
+
+.FAQS .purple-text {
+    color: #9747FF; 
+    text-align: center; 
+}
+
+.inner-box {
+    max-width: 500px; 
+    margin: 0 auto;
+    text-align: left;
+
+}
+
+.footer {
+   background-color: #6B3CC9;
+   width: 375px;
+   top: 2744px;
+   padding: 40px 20px 20px 20px;
+   gap: 40px;
+   opacity: 0px;
+   color: white;
+    
+}
+
+.footer-end {
+   background-color: #6B3CC9;
+   width: 1200px;
+   color: white;
+   padding: 20px;
+   text-align: center; 
+}		
+	
+.footer-end hr {
+   max-width: 40%; 
+   margin: 0 auto; 
+}
+		
+		
+.column1 {
+    text-align: left;
+	width: 25%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 10px;
+	float: left;
+}
+
+.column2 {
+    text-align: left;
+	width: 25%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 10px;
+	float: right;
+	
+			
+        }
+		
+.column3{
+    text-align: left;
+	width: 25%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 10px;
+	float: right;
+	
+}		
+		
+		
+.footer-logo {
+    float: left; 
+    padding: 5px; 
+    max-height: 40px;
+ 
+}		
+
+ul {
+   list-style-type: none; /* Remove bullets */
+   padding: 0;
+			
+        }
+		
+		
+	
+.pic1 {
+  
+  height: 218px; 
+  width: 375px; 
+  
+}	
+	
+ .box {
+    position: absolute;
+    Width: 375px;
+	Height:294px;
+    Top: 200px;
+   
+	background: linear-gradient(to right, #4DCA79 0%, #1CBDDD 100%);
+	Padding: 24px, 40px, 32px, 40px;
+	Gap: 20px;
+
+  }	
+  
+.box2 {
+    width: 300px; 
+    height: 200px; 
+	padding-top: 20px;
+    color: white; 
+	padding-left: 40px;
+	
+	font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+    text-align: left;
+
+	
+  }
+
+.orange-button2 {
+   background-color: #F28D35; 
+   color: white; 
+   padding: 12px 20px; 
+   top: 382px; 
+   left: 90px; 
+   border-radius: 4px; 
+   gap: 8px; 
+   border: none;
+   margin-left: 70px;
+	
+}  
+
+  
+.container {
+    width: 375px;
+    top: 649px;
+    float: left;
+    gap: 20px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16px;
+
+}
+  
+
+.pic2 {
+   float: center; 
+   max-height: 250px;
+   padding: 5px; 
+  
+}
+
+.pic3 {
+   float: center; 
+   max-height: 250px;
+   padding: 5px; 
+   
+}
+
+.container-text{
+	width: 375px;
+	font-family: Inter;
+    font-weight: 400; 
+    font-size: 16px; 
+    line-height: 19.36px;
+	text-align : left;
+	
+}  
+
+.container-textP{
+	width: 375px;
+	font-family: Poppins;
+	font-size: 27px;
+	font-weight: 600;
+	line-height: 33px;
+	letter-spacing: 0.4000000059604645px;
+	text-align: center;
+	color: #6B3CC9;
+
+
+}
+
+.container-textPC{
+	font-family: Poppins;
+	font-size: 27px;
+	font-weight: 600;
+	line-height: 33px;
+	letter-spacing: 0.4000000059604645px;
+	text-align: left;
+	color: #6B3CC9;
+
+}
+
+.container3{
+
+	top: 2000px;
+	left: 20px;
+	gap: 28px;
+	opacity: 0px;
+}
+
+
+
+
+.container3,
+.container4,
+.container5,
+.container6,
+.container7,
+ {
+    text-align: left;
+	width: 334px;
+	padding-top: 50px;
+}
+
+.container5,
+.container6,
+.container7 {
+    width: 286px;
+    padding-left: 30px;
+}
+
+.container5-text {
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28px;
+    color: #6B3CC9;
+	text-align: left;
+}
+
+.container5-content {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #6F6C90;
+	width: 286px;
+	text-align: left;
+}
+
+.container6-text {
+    width: 286px;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28px;
+    color: #000000;
+	text-align: left;
+}
+
+
+
+
+
+
+

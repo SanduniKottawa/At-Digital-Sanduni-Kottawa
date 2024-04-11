@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	
+	<body>
+
+		<div class="mcontainer">
+
+			
+			
+			
+			<div class="topnav">
+				<img src="logo.jpg" class="logo"> 
+				<a href="#SERVICES">SERVICES</a>
+				<a href="#ABOUT US">ABOUT US</a>
+				<a href="#CONTACT US">CONTACT US</a>
+				<a href="#CAREERS">CAREERS</a>
+			</div>
+			
+			<div>
+				<img src="picture1.jpg" class="pic1"> 
+				
+				<div class="box">
+				
+				  <div class="box2">
+				  <p>We Crush Your &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Competitors, Goals, And Sales Records - Without The B.S.</p>
+				
+				 
+				  </div>
+				  
+				   <button class="orange-button2">GET FREE CONSULTATION</button>
+				
+				</div>
+			</div>
+			
+			<br><br>
+			<div class="container">
+
+				<div class="container1">
+					<img src="pic2.jpg" > 
+				</div>
+  
+				
+				<div class="container1">
+				<p class="container-textP">Web & Mobile App Development</p>
+				<p class="container-text">Your web and mobile Apps are pieces of the puzzle to grow your business. We use frameworks which tailor content and engagement methods to respond to different intents shown by your potential customers who interact with your business online.</p>
+				<button class="orange-button">GET FREE CONSULTATION</button>
+				
+				</div>
+		    </div>
+			
+			
+			<div class="container">
+
+				
+				<div class="container1">
+				<p class="container-textP">Digital Strategy Consulting</p>
+				<p class="container-text">Your digital strategy should complement the overall marketing strategy of the company. In online marketing, each component will never work in isolation and every business needs a different mix. We provide a clear concept and strategic overview to find the most efficient model for your business.</p>
+				<button class="orange-button">LEARN MORE</button>
+				
+				</div>
+				
+				<div class="container1">
+					<img src="pic3.jpg" > 
+				</div>
+  
+				
+		    </div>
+			
+			<div class="container3">
+			    <p class="container-textPC">Frequently asked questions</p>
+
+					<div class="container4">
+					    <div class="container5">
+						   <p class="container5-text">Lorem ipsum dolor sit amet consectetur. Leo at sit eu libero?&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp-</p>
+						   <p class="container5-content">Lorem ipsum dolor sit amet consectetur. Faucibus commodo suscipit id ipsum. Elementum ultrices nulla &nbsp &nbsp &nbsp &nbsp &nbspfaucibus odio est sed aliquam. Sapien massa morbi risus sagittis tortor integer.</p>
+						</div><br>
+						
+						<div class="container6">
+							<p class="container6-text">Lorem ipsum dolor sit amet consectetur. Tortor scelerisque integer?&nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp+</p>
+						</div><br>
+						
+						<div class="container7">
+						    <p class="container6-text">Lorem ipsum dolor sit amet consectetur. Faucibus scelerisque nunc?&nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp+</p>
+						</div>
+					</div>
+			</div>
+			<br><br><br><br><br><br><br><br><br>
+			
+			
+			
+
+		    
+            
+			
+
+			<div class="footer">
+			    <div>
+				<div class="column1">
+					<img src="logo2.jpg" class="footer-logo "> 
+					<br><br><br>
+					<p>Your goal is our target. not anything in between. We use online marketing platforms and tools to achieve single objective-your business results.</p>
+				</div>
+    
+				<div class="column3">
+					<h3>Our Services</h3>
+					<ul>
+						<li>Social Media Marketing</li><br>
+			 
+						<li>Web & Mobile App Development</li><br>
+			 
+			 
+						<li>Data & Analytics </li>
+			 
+	
+					</ul>
+				</div>
+	
+				<div class="column2">
+						<h3>Our Technologies</h3>
+						<ul>
+							<li>ReactJS</li><br>
+			 
+			 
+							<li>Gatsby</li><br>
+			 
+			 
+							<li>NextJS</li><br>
+			 
+			 
+							<li>NodeJS</li>
+						</ul>
+				</div>
+				</div>
+		
+			<div class="footer-bottom">
+      ffff
+    </div>
+   
+			</div>
+	
+	
+			<div class="footer-end">
+			<hr>
+			<p>Privacy Policy | Terms & Conditions</p>
+			</div>
+
+	</div>
+
+		</div>
+
+	</body>
+</html>
