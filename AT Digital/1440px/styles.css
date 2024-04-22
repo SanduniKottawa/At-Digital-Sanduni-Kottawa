@@ -1,6 +1,6 @@
 .main{
 	
-	width: 1440px;
+	width: 1400px;
 	
 }
 
@@ -8,7 +8,7 @@
 .topnav {
    overflow: hidden;
    background-color: #6B3CC9;
-   width: 1440px;
+   width: 1400px;
    height: 77px;
    align-items: center;
    gap: 0px;
@@ -48,22 +48,23 @@
    max-height: 40px; /* Set maximum height for the logo */
    padding: 5px; 
    width: auto; /* width adjust automatically */
+}
 
 .orange-button {
    background-color: #F28D35; 
    color: white; 
-   padding: 12px 20px;
+   padding: 12px 20px; 
    top: 382px; 
    left: 77px; 
-   border-radius: 4px; 
+   border-radius: 4px; /* Rounded corners */
    gap: 8px; /* Gap between content */
    border: none;
    font-family: Inter;
-   font-size: 14px;
-   font-weight: 700;
-   line-height: 14px;
-   letter-spacing: -0.02em;
-   text-align: left;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 14px;
+	letter-spacing: -0.02em;
+	text-align: left;
 
 }  
 
@@ -90,7 +91,7 @@
     background-color: #6B3CC9;
     color: white;
     padding-top: 20px;
-	width: 1440px;
+	width: 1400px;
     min-height: 200px;
     top: 2319px;
 	padding-left: 20px;
@@ -99,7 +100,7 @@
 
 .footer-end {
    background-color: #6B3CC9;
- 
+   width: 1400px;
    color: white;
    padding: 20px;
    text-align: center; 
@@ -143,9 +144,9 @@
 		
 		
 .footer-logo {
-    float: left; 
-    padding: 5px; 
-    max-height: 40px;
+	float: left; 
+	padding: 5px; 
+	max-height: 40px;
  
 }		
 
@@ -158,17 +159,17 @@ ul {
 		
 	
 .pic1 {
-   float: center; 
-   height: 763px; 
-   width: 1440px; 
+	float: center; 
+	height: 700px; 
+	width: 1400px; 
   
 }	
 	
  .box {
     position: absolute;
-    Width: Fixed (630px);
-	Height:306px;
-    Top: 500px;
+    Width: 600px);
+	Height:300px;
+    Top: 460px;
     Left:150px;
 	background: linear-gradient(to right, #4DCA79 0%, #1CBDDD 100%);
 	Padding: 24px, 40px, 32px, 40px;
@@ -191,10 +192,10 @@ ul {
 .orange-button2 {
    background-color: #F28D35; 
    color: white; 
-   padding: 12px 20px;
-   top: 382px;
+   padding: 12px 20px; 
+   top: 382px; 
    left: 77px; 
-   border-radius: 4px; 
+   border-radius: 4px;
    gap: 8px; 
    border: none;
    margin-left: 50px;
